@@ -11,7 +11,7 @@ I'm a passionate developer with experience in .Net, currently working on ASP.NET
  ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📫 How to Reach Me
- [![image](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:popcap1012?chat) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieplekha@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+ [![image](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:popcap1012) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tieplekha@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 Let's connect and build something great! 🚀
 
